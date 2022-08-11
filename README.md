@@ -1,1 +1,3 @@
-# rails-7-template
+# Rails 7 Template
+
+rails new template --css tailwind
