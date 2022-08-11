@@ -1,3 +1,7 @@
 # Rails 7 Template
 
-rails new template --css tailwind
+# Rails New Command Used
+> rails new template --css tailwind
+
+# Running Development Server
+> bin/dev
